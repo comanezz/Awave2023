@@ -110,6 +110,7 @@ ul {
 }
 .icon {
   font-size: 10px;
+  pointer-events: none;
 }
 .bottom-list {
   border-top: 2px solid #e2e2e2;
